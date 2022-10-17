@@ -10,6 +10,6 @@ namespace Version_1._0
     {
         static void Main(string[] args)
         {
-        }
+        } Привет!
     }
 }
